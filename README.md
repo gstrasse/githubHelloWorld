@@ -7,4 +7,4 @@ git push
 < credential are requested >
 git commit -am 3rd_commit
 git push
-< savrd credential are used >
+< saved credential are used >
